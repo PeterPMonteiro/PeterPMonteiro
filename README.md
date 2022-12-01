@@ -5,9 +5,8 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PeterPMonteiro)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198183402693)
 
-![PeterPMonteiro GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterPMonteiro&show_icons=true&theme=tokyonight)
 
-![Top lenguags ](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterPMonteiro&theme=tokyonight)
+![Top lenguages ](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterPMonteiro&theme=tokyonight)
 ### Tecnologias do meu dia a dia.
 <hr>
 <div style="display: inline_block"><br/>
