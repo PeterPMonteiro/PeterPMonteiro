@@ -6,7 +6,7 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198183402693)
 
 
-![Top lenguages ](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterPMonteiro&theme=tokyonight)
+![Top lenguages ](https://github-readme-stats.vercel.app/api?username=PeterPMonteiro&theme=tokyonight)
 ### Tecnologias do meu dia a dia.
 <hr>
 <div style="display: inline_block"><br/>
